@@ -90,7 +90,6 @@ namespace CalculatorSimple
         {
 
         }
-
         
         private void ButtonDecimal_Click(object sender, EventArgs e)
         {
